@@ -1,0 +1,112 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+
+     {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "ChakraUI",
+        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+{
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+
+
+{
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+
+ {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+{
+        "name": "SEO",
+        "icon": "https://img.icons8.com/?size=100&id=12814&format=png&color=000000"
+    },
+
+    {
+        "name": "SMM",
+        "icon": "https://img.icons8.com/?size=100&id=MQiz3TkEm0h6&format=png&color=000000"
+    },
+    {
+        "name": "Google Ads",
+        "icon": "https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000"
+    },
+    {
+        "name": "YouTube",
+        "icon": "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"
+    },
+    {
+        "name": "B2B Lead Generation",
+        "icon": "https://img.icons8.com/?size=100&id=nzFksbrvhIWq&format=png&color=000000"
+    },
+    {
+        "name": "Email Marketing",
+        "icon": "https://img.icons8.com/?size=100&id=XNM2FZNY4ibc&format=png&color=000000"
+    },
+    {
+        "name": "Facebook Ads",
+        "icon": "https://img.icons8.com/?size=100&id=114441&format=png&color=000000"
+    },
+    {
+        "name": "Google Analytics",
+        "icon": "https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000"
+    },
+    {
+        "name": "Shopify",
+        "icon": "https://img.icons8.com/?size=100&id=BRIdulMG66MK&format=png&color=000000"
+    },
+
+ {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }
+
+
+
+   
+
+
+
+   
+]
